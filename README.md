@@ -11,54 +11,74 @@ Event Booking: Facilitates booking events such as birthday parties and special g
 
 Customer Reviews: Enables customers to provide feedback and ratings, enhancing transparency and service quality.
 
-# Week 1: Getting Started with HTML
-
-Day 1: Introduced to HTML basics, including tags, elements, and semantic structure.
-
-Day 2: Practiced creating simple web pages using HTML to understand document structure and formatting.
-
-Day 3: Explored HTML forms and input elements, learning how to gather user input.
-
-Day 4: Implemented CSS stylesheets to enhance the appearance of HTML pages, focusing on basic styling techniques.
-
-Day 5: Combined HTML and CSS to create more complex layouts and responsive designs.
-
-# Week 2: Enhancing Styling with CSS
-
-Day 6: Delved deeper into CSS properties, including layout models, box model, and positioning.
-
-Day 7: Applied CSS frameworks like Bootstrap for rapid styling and responsive design.
-
-Day 8: Explored CSS animations and transitions to add interactivity and visual appeal.
-
-Day 9: Implemented CSS Flexbox and Grid layouts for advanced page structuring and alignment.
-
-Day 10: Conducted hands-on projects to reinforce HTML and CSS concepts, building websites and prototypes.
-
-# Week 3: Mastering JavaScript Basics
-
-Day 11: Introduced to JavaScript fundamentals, including variables, data types, and operators.
-
-Day 12: Learned control structures and functions in JavaScript for implementing logic and interactivity.
-
-Day 13: Practiced DOM manipulation with JavaScript to dynamically update HTML content and respond to user actions.
-
-Day 14: Implemented event handling and callbacks to create interactive web applications.
-
-Day 15: Explored asynchronous programming with JavaScript, including promises and asynchronous functions.
-
-# Week 4: Introduction to the MERN Stack
-
-Day 16: Introduced to Node.js and Express.js for server-side JavaScript development.
-
-Day 17: Learned MongoDB fundamentals, setting up a local database for data storage.
-
-Day 18: Integrated React.js for building dynamic and responsive frontend components.
-
-Day 19: Implemented basic CRUD operations using the MERN stack, combining frontend and backend functionalities.
-
-Day 20: Reflecting on my journey, I gained a solid foundation in web development with HTML, CSS, and JavaScript, preparing me for advanced projects with the MERN stack.
-
+# Week 1:
+Day 1 (Simple HTML/CSS/JavaScript Refresher):
+Review basic HTML tags and structure.
+Brush up on CSS styling techniques.
+Practice JavaScript fundamentals such as variables and functions.
+Day 2-3 (Revise MERN Stack):
+Recap MongoDB concepts like collections and documents.
+Review Express.js for setting up server routes.
+Refresh React.js for building user interfaces.
+Day 4 (Research Project):
+Define project scope and objectives clearly.
+Research similar projects or technologies for inspiration.
+Outline initial project requirements and features.
+Day 5 (Understand Project):
+Clarify any ambiguities in project requirements.
+Break down project tasks into manageable components.
+Familiarize yourself with the project's expected deliverables and timeline.
+# Week 2:
+Day 1 (Website Structure):
+Plan the overall site architecture and navigation flow.
+Create wireframes or sketches of main pages.
+Define the structure of your backend API endpoints.
+Day 2 (Design Webpages):
+Create mockups or prototypes of key webpages.
+Ensure design elements are cohesive with your project's theme.
+Consider usability and accessibility best practices in your designs.
+Day 3-5 (Page Design):
+Implement responsive design principles for mobile and desktop views.
+Validate design consistency across all pages.
+Gather feedback from peers or potential users on initial designs.
+# Week 3:
+Day 1 (Link Pages):
+Integrate navigation links between different pages.
+Ensure smooth transitions and user flow.
+Test navigation on different devices and browsers.
+Day 2 (Resolve Errors):
+Debug any frontend issues or inconsistencies.
+Address compatibility issues across various browsers.
+Test for responsiveness and accessibility.
+Day 3 (Frontend Testing):
+Conduct usability testing with potential users.
+Gather feedback on user experience and interface design.
+Document and prioritize any necessary improvements.
+Day 4-5 (Database Setup and Research):
+Choose an appropriate database solution (e.g., MongoDB, MySQL).
+Set up database schemas and tables based on project requirements.
+Research best practices for database security and optimization.
+# Week 4:
+Day 1 (Create Databases):
+Choose and set up a suitable database management system (e.g., MongoDB, MySQL).
+Define database schemas and tables according to project requirements.
+Ensure proper indexing and relationships between tables for efficient querying.
+Day 2 (Connect Databases):
+Establish connections between backend services and the chosen database.
+Implement CRUD operations (Create, Read, Update, Delete) to interact with the database.
+Test database connectivity and operations to ensure functionality.
+Day 3 (Connect to Frontend):
+Integrate backend APIs with frontend components to fetch and display data.
+Ensure data flow between frontend and backend is secure and efficient.
+Test data rendering and updating on the frontend to verify integration.
+Day 4 (Testing Website):
+Conduct comprehensive testing of all website features and functionalities.
+Perform usability testing to ensure smooth user interaction and navigation.
+Test responsiveness across different devices and browsers.
+Day 5 (Resolve Errors):
+Identify and prioritize any bugs or errors discovered during testing.
+Debug and fix frontend, backend, and database-related issues promptly.
+Test again after resolving issues to confirm stability and performance
 
 
 # Technologies Used
