@@ -13,7 +13,7 @@ Customer Reviews: Enables customers to provide feedback and ratings, enhancing t
 
 # Technologies Used
 
-HTML, CSS, JavaScript, React.js
-Node.js, Express.js
+## HTML, CSS, JavaScript, React.js
+## Node.js, Express.js
 MongoDB
 Hosted and tested locally in VS Code
