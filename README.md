@@ -10,3 +10,10 @@ Food Price Display: Customers can view the menu with prices for various dishes a
 Event Booking: Facilitates booking events such as birthday parties and special gatherings, allowing customers to reserve tables and select catering options.
 
 Customer Reviews: Enables customers to provide feedback and ratings, enhancing transparency and service quality.
+
+Technologies Used
+
+HTML, CSS, JavaScript, React.js
+Node.js, Express.js
+MongoDB
+Hosted and tested locally in VS Code
