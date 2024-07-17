@@ -13,94 +13,95 @@ Customer Reviews: Enables customers to provide feedback and ratings, enhancing t
 
 # Project Development Overview
 
+# Project Overview
+
 ## Week 1
 
-### Day 1 (Simple HTML/CSS/JavaScript Refresher):
-- Review basic HTML tags and structure.
-- Brush up on CSS styling techniques.
-- Practice JavaScript fundamentals such as variables and functions.
+### Day 1 (Basic HTML/CSS/JavaScript Review):
+- Reviewed fundamental HTML tags and structure.
+- Brushed up on CSS styling techniques.
+- Practiced basic JavaScript like variables and functions.
 
-### Day 2-3 (Revise MERN Stack):
-- Recap MongoDB concepts like collections and documents.
-- Review Express.js for setting up server routes.
-- Refresh React.js for building user interfaces.
+### Day 2-3 (MERN Stack Review):
+- Refreshed MongoDB concepts like collections and documents.
+- Revised Express.js for setting up server routes.
+- Revisited React.js for building user interfaces.
 
-### Day 4 (Research Project):
-- Define project scope and objectives clearly.
-- Research similar projects or technologies for inspiration.
-- Outline initial project requirements and features.
+### Day 4 (Project Scope Definition):
+- Clearly defined project goals and objectives.
+- Researched similar projects for inspiration.
+- Outlined initial project requirements and features.
 
-### Day 5 (Understand Project):
-- Clarify any ambiguities in project requirements.
-- Break down project tasks into manageable components.
-- Familiarize yourself with the project's expected deliverables and timeline.
+### Day 5 (Project Familiarization):
+- Clarified project requirements.
+- Broke down tasks into manageable parts.
+- Got acquainted with project deliverables and timeline.
 
 ## Week 2
 
-### Day 1 (Website Structure):
-- Plan the overall site architecture and navigation flow.
-- Create wireframes or sketches of main pages.
-- Define the structure of your backend API endpoints.
+### Day 1 (Website Architecture Planning):
+- Planned site structure and navigation.
+- Created wireframes or sketches.
+- Defined backend API endpoints.
 
-### Day 2 (Design Webpages):
-- Create mockups or prototypes of key webpages.
-- Ensure design elements are cohesive with your project's theme.
-- Consider usability and accessibility best practices in your designs.
+### Day 2 (Webpage Design):
+- Designed mockups or prototypes.
+- Ensured design consistency.
+- Considered usability and accessibility.
 
-### Day 3-5 (Page Design):
-- Implement responsive design principles for mobile and desktop views.
-- Validate design consistency across all pages.
-- Gather feedback from peers or potential users on initial designs.
+### Day 3-5 (Responsive Page Design):
+- Implemented mobile-friendly designs.
+- Checked design consistency.
+- Gathered feedback on designs.
 
 ## Week 3
 
-### Day 1 (Link Pages):
-- Integrate navigation links between different pages.
-- Ensure smooth transitions and user flow.
-- Test navigation on different devices and browsers.
+### Day 1 (Navigation Integration):
+- Linked pages for smooth navigation.
+- Tested on various devices.
+- Ensured user-friendly navigation.
 
-### Day 2 (Resolve Errors):
-- Debug any frontend issues or inconsistencies.
-- Address compatibility issues across various browsers.
-- Test for responsiveness and accessibility.
+### Day 2 (Error Resolution):
+- Fixed frontend issues.
+- Ensured compatibility across browsers.
+- Tested for responsiveness.
 
-### Day 3 (Frontend Testing):
-- Conduct usability testing with potential users.
-- Gather feedback on user experience and interface design.
-- Document and prioritize any necessary improvements.
+### Day 3 (Frontend Usability Testing):
+- Conducted tests with potential users.
+- Collected feedback on user experience.
+- Documented and prioritized improvements.
 
-### Day 4-5 (Database Setup and Research):
-- Choose an appropriate database solution (e.g., MongoDB, MySQL).
-- Set up database schemas and tables based on project requirements.
-- Research best practices for database security and optimization.
+### Day 4-5 (Database Setup and Optimization):
+- Chose suitable database solution.
+- Created database schemas and tables.
+- Implemented security and optimization practices.
 
 ## Week 4
 
-### Day 1 (Create Databases):
-- Choose and set up a suitable database management system (e.g., MongoDB, MySQL).
-- Define database schemas and tables according to project requirements.
-- Ensure proper indexing and relationships between tables for efficient querying.
+### Day 1 (Database Management):
+- Managed database setup.
+- Defined tables and relationships.
+- Ensured efficient data querying.
 
-### Day 2 (Connect Databases):
-- Establish connections between backend services and the chosen database.
-- Implement CRUD operations (Create, Read, Update, Delete) to interact with the database.
-- Test database connectivity and operations to ensure functionality.
+### Day 2 (Backend Integration):
+- Connected backend services to database.
+- Implemented CRUD operations.
+- Tested database functionality.
 
-### Day 3 (Connect to Frontend):
-- Integrate backend APIs with frontend components to fetch and display data.
-- Ensure data flow between frontend and backend is secure and efficient.
-- Test data rendering and updating on the frontend to verify integration.
+### Day 3 (Backend-Frontend Integration):
+- Linked backend APIs with frontend.
+- Secured data flow.
+- Verified data display and updates.
 
-### Day 4 (Testing Website):
-- Conduct comprehensive testing of all website features and functionalities.
-- Perform usability testing to ensure smooth user interaction and navigation.
-- Test responsiveness across different devices and browsers.
+### Day 4 (Website Testing):
+- Conducted thorough testing.
+- Ensured user interaction and navigation.
+- Tested across devices and browsers.
 
-### Day 5 (Resolve Errors):
-- Identify and prioritize any bugs or errors discovered during testing.
-- Debug and fix frontend, backend, and database-related issues promptly.
-- Test again after resolving issues to confirm stability and performance.
-
+### Day 5 (Issue Resolution and Final Testing):
+- Identified and fixed bugs promptly.
+- Ensured website stability.
+- Performed final checks for optimal performance.
 
 # Technologies Used
 
